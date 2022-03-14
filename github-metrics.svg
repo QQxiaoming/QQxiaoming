@@ -1327,7 +1327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lowlighter/metrics</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!</div>
@@ -1380,7 +1380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iBotPeaches/Apktool</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tool for reverse engineering Android apk files</div>
@@ -2199,7 +2199,7 @@ Signed-off-by: ImgBotApp &lt;ImgBotHelp@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Mar 2022, 19:19:30 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 14 Mar 2022, 20:36:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
