@@ -1,6 +1,7 @@
 {
     "ignoredFiles": [
-    	"github-metrics.svg",              // by filename
+    	"github-metrics.svg",
+    	"duolingo.svg",
     ],
 }
 

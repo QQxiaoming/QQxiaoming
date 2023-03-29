@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=QQxiaoming)
 
+- 👀 Language 👉 🇨🇳(native language) 🇺🇸 🇯🇵
+
 - 😃 Develop OS 👉 [![](https://img.shields.io/badge/OS-Mint%20Linux-33aadd?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linuxmint.com/)[![](https://img.shields.io/badge/OS-MacOS-33aadd?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 
 - 💡 Programming Language 👉 [![](https://img.shields.io/badge/-Assembly-007396?style=flat-square&logo=gnubash&logoColor=ffffff)](https://en.wikipedia.org/wiki/Assembly_language)
