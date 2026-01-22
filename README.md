@@ -12,10 +12,6 @@
 [![](https://img.shields.io/badge/-Rust-007396?style=flat-square&logo=rust&logoColor=ffffff)](https://www.rust-lang.org/)
 [![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 
-- 📚 Duolingo State 👇 
-
-![QQxiaoming's duolingo](./duolingo.svg)
-
 - 💻 Github State 👇 
 
 ![QQxiaoming's Github](./github-metrics.svg)
